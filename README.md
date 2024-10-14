@@ -1,6 +1,8 @@
 # Sales-and-Shipping-Performance-Dashboard
 This dashboard provides an overview of key sales, shipping, and profitability metrics, including order details, customer insights, shipping performance, and regional sales breakdown, enabling better decision-making and operational efficiency
 Sales and Shipping Performance Dashboard
+# link
+https://public.tableau.com/shared/2ZCC8235K?:display_count=n&:origin=viz_share_link
 # Overview
 The Sales and Shipping Performance Dashboard is designed to provide insights into your sales data, shipping performance, and profitability. It enables businesses to analyze order trends, customer segments, product categories, shipping modes, and profit margins across different regions. The dashboard helps improve decision-making and enhances operational efficiency.
 
